@@ -1,6 +1,6 @@
 {
   "name": "table-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Maths Table Generator.",
   "private": true,
   "main": "index.js",
@@ -9,6 +9,7 @@
     "nodemon": "nodemon index.js"
   },
   "homepage": "https://github.com/priyanshu/table-generator",
+  "git": "https://github.com/priyanshu/table-generator",
   "bugs": {
     "url": "https://github.com/priyanshu/table-generator/issues",
     "email": "priyanshu2007pk@gmail.com"
