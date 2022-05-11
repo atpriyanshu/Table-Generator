@@ -14,5 +14,8 @@
     "url": "https://github.com/atpriyanshu/table-generator/issues",
     "email": "atpriyanshudev@gmail.com"
   },
-  "author": "atpriyanshu <atpriyanshudev@gmail.com>"
+  "author": "atpriyanshu <atpriyanshudev@gmail.com>",
+  "devDependencies": {
+    "nodemon": "^2.0.16
+  }
 }
