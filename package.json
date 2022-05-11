@@ -9,10 +9,10 @@
     "nodemon": "nodemon index.js"
   },
   "homepage": "https://github.com/priyanshu/table-generator",
-  "git": "https://github.com/priyanshu/table-generator",
+  "git": "https://github.com/atpriyanshu/table-generator",
   "bugs": {
-    "url": "https://github.com/priyanshu/table-generator/issues",
-    "email": "priyanshu2007pk@gmail.com"
+    "url": "https://github.com/atpriyanshu/table-generator/issues",
+    "email": "atpriyanshudev@gmail.com"
   },
-  "author": "atpriyanshu <priyanshu2007pk@gmail.com> (https://github.com/atpriyanshu/)"
+  "author": "atpriyanshu <atpriyanshudev@gmail.com>"
 }
