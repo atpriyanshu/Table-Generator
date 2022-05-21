@@ -8,7 +8,7 @@
     "node": "node index.js",
     "nodemon": "nodemon index.js"
   },
-  "homepage": "https://github.com/priyanshu/table-generator",
+  "homepage": "https://github.com/atpriyanshu/table-generator",
   "git": "https://github.com/atpriyanshu/table-generator",
   "bugs": {
     "url": "https://github.com/atpriyanshu/table-generator/issues",
@@ -16,6 +16,6 @@
   },
   "author": "atpriyanshu <atpriyanshudev@gmail.com>",
   "devDependencies": {
-    "nodemon": "^2.0.16
+    "nodemon": "^2.0.16"
   }
 }
